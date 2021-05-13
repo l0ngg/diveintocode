@@ -1,3 +1,1 @@
-this is my repository
-
-edit: this be an edit
+repository for the dive into code course
